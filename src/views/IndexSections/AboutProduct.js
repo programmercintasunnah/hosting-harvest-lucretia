@@ -48,7 +48,7 @@ class AboutProduct extends React.Component {
         </h1>
         <section className="section section-shaped">
           <div className="shape shape-style-3 shape-default">
-            <img src={bg2} alt=""></img>
+            {/* <img src={bg2} alt=""></img> */}
             <span />
             <span />
             <span />
